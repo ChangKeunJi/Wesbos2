@@ -1,0 +1,14 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 250px;
+  text-align: center;
+  color: #fff;
+}
+
+#clock {
+  margin: auto;
+  font-weight: 300;
+  font-size: 100px;
+  padding-bottom: 2rem;
+}
